@@ -20,6 +20,6 @@ request_gpus = 1
 +DESIRED_SitesEntries = "$(siteEntry)"
 Requirements = stringListMember(EntryName,DESIRED_SitesEntries)
 
-+IsGPUTestJob = True
++IsGPUSiteEntryTestJob = True
 
 Queue site,siteEntry from site_entries.txt
