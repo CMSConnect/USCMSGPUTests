@@ -1,0 +1,14 @@
+cit-gatekeeper2.ultralight.org
+cit-gatekeeper3.ultralight.org
+cit-gatekeeper.ultralight.org
+cms.rc.ufl.edu
+ce01.cmsaf.mit.edu
+ce02.cmsaf.mit.edu
+ce03.cmsaf.mit.edu
+hammer-osg.rcac.purdue.edu
+opportunistic.host.invalid
+cmsgrid01.hep.wisc.edu
+cmsgrid02.hep.wisc.edu
+cmsgrid03.hep.wisc.edu
+ce5-vanderbilt.sites.opensciencegrid.org
+ce6-vanderbilt.sites.opensciencegrid.org

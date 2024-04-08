@@ -2,6 +2,7 @@
 
 hostname
 date
-nvidia-smi
+pwd
+#nvidia-smi
 echo ls -l .condor*
-ls -l .condor*
+ls -ld .*

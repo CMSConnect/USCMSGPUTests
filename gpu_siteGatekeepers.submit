@@ -16,10 +16,8 @@ request_gpus = 1
 +RequiresGPU=1
 
 # Where to submit
-+DESIRED_Sites = "$(site)"
-+DESIRED_SitesEntries = "$(siteEntry)"
-Requirements = stringListMember(EntryName,DESIRED_SitesEntries)
++DESIRED_Gatekeepers = "$(gatekeeper)"
 
-+IsGPUSiteEntryTestJob = True
++IsGPUSiteGatekeeperTestJob = True
 
-Queue site,siteEntry from site_entries.txt
+Queue gatekeeper from site_gatekeepers.txt
