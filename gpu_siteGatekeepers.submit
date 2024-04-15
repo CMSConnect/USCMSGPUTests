@@ -18,6 +18,7 @@ request_gpus = 1
 # Where to submit
 +DESIRED_Gatekeepers = "$(gatekeeper)"
 
-+IsGPUSiteGatekeeperTestJob = True
+#+IsGPUSiteGatekeeperTestJob = True
++IsGPUSiteTestJob = True
 
 Queue gatekeeper from site_gatekeepers.txt
