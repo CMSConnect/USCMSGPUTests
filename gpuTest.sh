@@ -13,5 +13,3 @@ cat .job.ad
 
 echo -- cat .machine.ad
 cat .machine.ad
-
-sleep 3600
